@@ -1,0 +1,6 @@
+Wire your arduino like this 
+R Channel Input:A1
+L Channel Input:A0
+R Channel Output:A4
+L Channel Output:A5
+select your com port in the program and start saving on cassette!
